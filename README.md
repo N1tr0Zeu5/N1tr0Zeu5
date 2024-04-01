@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @N1tr0Zeu5
-- ​📍​ Im from Seville/ Spain
+# 👋 Hi, I’m @N1tr0Zeu5
+## Currently studiying Administrador de Sistemas Informaticos en Red "ASIR"
+-📍​ Im from Seville/ Spain
 - 👀 I’m interested in coding and discord's bots
-- 🌱 I’m currently studiying Administrador de Sistemas Informaticos en Red "ASIR"
+- 🌱 I’m 
 - ⚡ Fun fact:
 - ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⣶⣶⣶⣤⣄⡀⠀⠀
 - ⠀⠀⠀⠀ ⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀
