@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @N1tr0Zeu5
+# 👋 Hi, I’m Ruben Ramirez 
 ## Currently studiying Administrador de Sistemas Informaticos en Red "ASIR"
 - Im from Seville/ Spain
 - 👀 I’m interested in coding and discord's bots
