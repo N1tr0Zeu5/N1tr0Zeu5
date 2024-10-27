@@ -1,3 +1,4 @@
+![masterhead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 # ¡Hola, soy Ruben! 👋
 
 ## Sobre mí
@@ -13,9 +14,9 @@
 - **Herramientas:** Conocimiento de herramientas como Wireshark, cisco packet tracer, visual studio code.
 - **Lenguajes de programación:** Python, Bash, PowerShell.
 - **Sistemas Operativos**: Ubuntu, Debian, Windows 7,10,11 CentOS, LinuxMint, AlpineLinex
-- **Bases de datos:**Oracle, MySQL, MongoDB, Microsoft data base
+- **Bases de datos:** Oracle, MySQL, MongoDB, Microsoft data base
 - **Manejo del paquete office Microsoft:** Word, Exel, PowerPoint, Outlook.
-- **Manejo Maquinas Virtuales:**VirtualBox, Proxmox, KVM
+- **Manejo Maquinas Virtuales:** VirtualBox, Proxmox, KVM
 
 ##  Lo que he aprendido en el curso  
 ##  *Primero*
