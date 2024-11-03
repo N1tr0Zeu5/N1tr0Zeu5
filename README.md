@@ -54,6 +54,15 @@ Titulo Bachicherato Tecnologico
 Grado Superior en Administracion de Sistemas Informáticos en Red
 
 ~~~
+## Soft Skills
+
+- ***Capacidad resolutiva***
+- ***Comunicación asertiva***
+- ***Capacidad de trabajo bajo presión***
+- ***Capacidad de trabajo en equipo***
+- ***Capacidad autodidacta***
+- ***Gestión del tiempo***
+- ***Pensamiento crítico***
 <br>  
 
 > [!NOTE]
