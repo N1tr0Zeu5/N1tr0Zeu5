@@ -51,7 +51,7 @@
 ## Formación académica
 ~~~
 Titulo Bachicherato Tecnologico
-Grado Superior en Sistemas Informáticos en Red
+Grado Superior en Administracion de Sistemas Informáticos en Red
 
 ~~~
 <br>  
