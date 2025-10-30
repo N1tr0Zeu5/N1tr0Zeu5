@@ -2,8 +2,8 @@
 # ¡Hola, soy Ruben! 👋
 
 ## Sobre mí
-
-- 🎓 Actualmente, estudiando administracion de sistemas informaticos en red en I.E.S Rodrigo Caro y como objetivo tengo especializarme en ciberseguridad.
+- 💻​ Tecnico superior en Administracion de Sistemas Informaticos en Red
+- 🎓 Actualmente, estudiando: Máster reglado de FP Superior en Ciberseguridad en entornos de las Tecnologías de la Información en CEU San Pablo
 - 🌱 Estoy constantemente aprendiendo sobre nuevas tecnologías y herramientas en el campo de la seguridad informática y la administracion de sistemas
 - 💼 Busqueda activa para realizarme como profesional.
   
@@ -46,8 +46,6 @@
   Actualmente me encuentro cursando dos certificaciones:  
     -[Openwebinars ](https://openwebinars.net/)
     <br>  
-    -[Cisco packet Tracer](https://www.netacad.com/es/cisco-packet-tracer)   
-
 ## Formación académica
 ~~~
 Titulo Bachicherato Tecnologico
